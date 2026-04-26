@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=200&section=header&text=Yash%20Verma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=93c5fd" width="100%"/>
+# Yash Verma
+
+**Full Stack Developer · Software Engineer**
 
 </div>
 
@@ -99,8 +101,9 @@ When I'm not shipping features, I'm sharpening my **Data Structures & Algorithms
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yash13verma2005?theme=dark&font=Baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yashverma132005?theme=dark&font=Baloo&ext=heatmap)
 
+> **Replace `yashverma132005` above with your actual LeetCode username**
 
 </div>
 
@@ -108,8 +111,6 @@ When I'm not shipping features, I'm sharpening my **Data Structures & Algorithms
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yashverma132005&color=1e40af&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=100&section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=yashverma132005&color=555555&style=flat-square&label=Profile+Views)
 
 </div>
