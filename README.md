@@ -99,9 +99,8 @@ When I'm not shipping features, I'm sharpening my **Data Structures & Algorithms
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yashverma132005?theme=dark&font=Baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yash13verma2005?theme=dark&font=Baloo&ext=heatmap)
 
-> **Replace `yashverma132005` above with your actual LeetCode username**
 
 </div>
 
