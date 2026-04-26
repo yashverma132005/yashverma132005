@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 Who am I?
+## 👨‍💻 About Me!
 
 Hey! I'm **Yash** — a full-stack developer who loves building things that actually work, look great, and scale well. I obsess over clean code, good UX, and sharp algorithms.
 
@@ -104,7 +104,7 @@ Hey! I'm **Yash** — a full-stack developer who loves building things that actu
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yash13verma2005?theme=dark&font=Baloo&ext=heatmap)
 
 </div>
 
